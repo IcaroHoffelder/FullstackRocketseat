@@ -1,3 +1,4 @@
 body {
-  background-image: url(Assets/BG.jpg);
+  background-image: url(Assets/bg-image.jpg);
+  background-size: cover;
 }
