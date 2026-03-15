@@ -1,1 +1,1 @@
-Apenas atualizando a readme para testes
+Página de receitas feita como forma de exercício do curso de Fullstack da Rocketseat
